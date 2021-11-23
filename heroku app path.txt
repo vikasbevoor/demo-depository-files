@@ -1,0 +1,1 @@
+https://pricecomputerpediction-api.herokuapp.com/predict
